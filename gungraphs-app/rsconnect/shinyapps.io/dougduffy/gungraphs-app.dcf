@@ -1,0 +1,8 @@
+name: gungraphs-app
+account: dougduffy
+server: shinyapps.io
+bundleId: 378944
+url: https://dougduffy.shinyapps.io/gungraphs-app/
+when: 1456273222.27356
+asMultiple: FALSE
+asStatic: FALSE
